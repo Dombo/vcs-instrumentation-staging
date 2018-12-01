@@ -1,0 +1,21 @@
+probot_test:
+  events:
+    qa_requested:
+      label: 'ready-for-review'
+  qa_team:
+    name: 'QA'
+    members:
+      - 'ilgrospe'
+      - 'jansenmariano'
+      - 'mikechavez09'
+  cr_team:
+    name: 'CR'
+    mambers:
+      - 'AwolDes'
+      - 'DanielGilchrist'
+      - 'daveallie'
+      - 'dombo'
+      - 'ghiculescu'
+      - 'jling90'
+      - 'leonp1991'
+      - 'prfraser'
